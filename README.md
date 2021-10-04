@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Oscar Xalxo</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
-- 📫 How to reach me **ankitoscar911@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-oscar-5b7175199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-oscar-5b7175199" height="30" width="40" /></a>
